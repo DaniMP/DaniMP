@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dmon -> Dani
-- 👀 I’m interested in game development
-- 🌱 I’m learning C++
-- 📫 How to reach me ldny69@gmail.com
+- 👀 I’m interested in front-end web development
+- 🌱 I want to learn React
+- 📫 How to reach me danimontes@hotmail.es
 
 <!---
 DaniMP/DaniMP is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
